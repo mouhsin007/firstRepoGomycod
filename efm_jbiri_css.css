@@ -1,0 +1,46 @@
+body{
+	border: solid 1px black;
+
+}
+
+
+.container{
+	border: solid 1px black;
+	width: auto;
+}
+
+ul {
+	display: flex;
+	justify-content: space-around; 
+  list-style-type: none;
+  
+  
+  flex-direction: row;
+}
+
+li {
+	width: 250px;
+  
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+.main{
+	margin-top: 10px;
+	display: flex;
+	justify-content: space-around; 
+	margin-bottom: 30px;
+
+
+}
+img{
+	width: 250px;
+	height: 300px;
+	border:solid 1px black;
+	padding: 10px;
+
+}
